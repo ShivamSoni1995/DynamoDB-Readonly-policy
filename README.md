@@ -1,4 +1,3 @@
-Perfect 🚀 Let’s build the **Terraform config for Activity 2** step by step. This will provision:
 
 * A DynamoDB table (`my-app-table`)
 * An IAM role + instance profile with **least privilege policy** (only `GetItem` & `Query` on that table)
@@ -46,4 +45,4 @@ Perfect 🚀 Let’s build the **Terraform config for Activity 2** step by step.
 
 ---
 
-👉 Do you want me to also add a **user-data script** so the EC2 automatically installs AWS CLI + runs a test query on boot (so you can see it without manual SSH)?
+
